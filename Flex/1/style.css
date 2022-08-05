@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+  width: 250px;
+  background: rgb(90, 173, 241);
+  border: darkblue solid;
+}
+.box {
+  height: 100px;
+  width: 100px;
+  background: lightcoral;
+  padding: 10px;
+  border: crimson solid 10px;
+}
